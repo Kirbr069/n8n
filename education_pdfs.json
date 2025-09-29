@@ -1,16 +1,10 @@
 {
   "artigos": [
     {
-      "titulo": "Computing Education in the Era of Generative AI",
-      "autor": "Paul Denny et al.",
-      "ano": 2023,
-      "link_pdf": "https://arxiv.org/pdf/2306.02608.pdf"
-    },
-    {
-      "titulo": "Generative AI in Computing Education: Perspectives of Students and Instructors",
-      "autor": "Cynthia Zastudil; Magdalena Rogalska; Christine Kapp; Jennifer Vaughn; Stephen MacNeil",
-      "ano": 2023,
-      "link_pdf": "https://arxiv.org/pdf/2308.04309.pdf"
+      "titulo": "The C programming Language",
+      "autor": "Brian W.Kernighan; Dennis M.Ritchie",
+      "ano": 1988,
+      "link_pdf": "https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/%5BKernighan-Ritchie%5DThe_C_Programming_Language.pdf"
     },
     {
       "titulo": "Imagining Computing Education Assessment after Generative AI",
@@ -31,10 +25,10 @@
       "link_pdf": "https://files.eric.ed.gov/fulltext/EJ1445019.pdf"
     },
     {
-      "titulo": "Exploring Student Perception and Interactions Using ChatGPT in a Beginner-Level Python Programming Course",
-      "autor": "B. Ma et al.",
-      "ano": 2024,
-      "link_pdf": "https://files.eric.ed.gov/fulltext/ED665431.pdf"
+      "titulo": "Pedagogical Content for Professors of Introductory Programming Courses",
+      "autor": "Yorah Bosse; David Redmiles; Marco A. Gerosa",
+      "ano": 2019,
+      "link_pdf": "https://www.ime.usp.br/~gerosa/papers/3304221.3319776.pdf"
     }
   ]
 }

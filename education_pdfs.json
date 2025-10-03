@@ -1,11 +1,6 @@
 {
   "artigos": [
-    {
-      "titulo": "The C programming Language",
-      "autor": "Brian W.Kernighan; Dennis M.Ritchie",
-      "ano": 1988,
-      "link_pdf": "https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/%5BKernighan-Ritchie%5DThe_C_Programming_Language.pdf"
-    },
+   
     {
       "titulo": "Imagining Computing Education Assessment after Generative AI",
       "autor": "Stephen MacNeil et al.",
